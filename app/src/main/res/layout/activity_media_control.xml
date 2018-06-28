@@ -35,7 +35,7 @@
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"/>
+        android:orientation="horizontal">
 
         <TextView
             android:layout_width="wrap_content"
@@ -43,7 +43,7 @@
             android:id="@+id/textView"
             android:text="@string/tv_loop"/>
 
-    <Swich
+    <Switch
         android:id="@+id/swLoop"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
